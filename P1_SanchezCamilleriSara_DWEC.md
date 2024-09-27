@@ -312,11 +312,6 @@ Polyfill.io:
 - Ventajas: Ayudan a encontrar y solucionar problemas de manera más rápida.
 
 <hr>
-<br>
-<br>
-<br>
-<br>
-<hr> 
 
 ## <span style="color: cornflowerblue"><u>· Bibliografía.</u></span>
 
